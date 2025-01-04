@@ -7,4 +7,4 @@ sum_str=a+a1
 if b<c:
     print(True)
 else:
-    print(False)    
+    print(False)
